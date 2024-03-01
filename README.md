@@ -16,7 +16,7 @@
 ### <h3>A little about me... </h3>
 
 ```javascript
-const eduardoGutierrez = {
+const pratikMarathe = {
   lookingFor: 'Full-Stack Web Developer' || 'Software Developer',
   currentChallenges: 'Diving into Apollo Server and NODE',
   iLove: [
