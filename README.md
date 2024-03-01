@@ -5,6 +5,7 @@
     I'm Pratik Marathe
 </h1>
 
+
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
@@ -12,7 +13,21 @@
     
 </h3
 
+### <h3>A little about me... </h3>
 
+```javascript
+const eduardoGutierrez = {
+  lookingFor: 'Full-Stack Web Developer' || 'Software Developer',
+  currentChallenges: 'Diving into Apollo Server and NODE',
+  iLove: [
+    'Chess',
+    'Sci-Fi',
+    'Science',
+    'Rock Climbing',
+    'Watching an Anime',
+  ],
+};
+```
 
 <br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
