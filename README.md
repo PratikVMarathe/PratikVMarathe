@@ -18,7 +18,7 @@
 ```javascript
 const pratikMarathe = {
   lookingFor: 'Full-Stack Web Developer' || 'Software Developer',
-  currentChallenges: 'Diving into Apollo Server and NODE',
+  currentChallenges: 'Diving into Server and NODE',
   iLove: [
     'Chess',
     'Sci-Fi',
