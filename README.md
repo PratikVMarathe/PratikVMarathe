@@ -22,7 +22,7 @@ const pratikMarathe = {
   iLove: [
     'Chess',
     'Sci-Fi',
-    'Science',
+    'Technologies',
     'Rock Climbing',
     'Watching an Anime',
   ],
