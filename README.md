@@ -76,8 +76,8 @@ const pratikMarathe = {
     <a href="https://twitter.com/PratikMarathe01">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ganeshjungade" />
     </a>
-    <a href="https://suresh-jungade.netlify.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://suresh-jungade.netlify.app/" />
+    <a href="https://pratik-marathe-portfolio.netlify.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://pratik-marathe-portfolio.netlify.app/" />
     </a>
     <a title="pratikmarathe2108@gmail.com" href="mailto:pratikmarathe2108@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="marathepratik2108@gmail.com" />
