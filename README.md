@@ -23,7 +23,6 @@ const pratikMarathe = {
     'Chess',
     'Sci-Fi',
     'Technologies',
-    'Rock Climbing',
     'Watching an Anime',
   ],
 };
