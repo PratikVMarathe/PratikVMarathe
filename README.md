@@ -57,7 +57,8 @@ const pratikMarathe = {
  
 
 ### <h2>🏆<i> Certificates</i></h2>
-- [![HackerRank Java Certificate](https://img.shields.io/badge/HackerRank-JAVA-47A248?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/ea97ab1c1d5c)
+[![HackerRank Java Certificate](https://img.shields.io/badge/HackerRank-JAVA-47A248?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/ea97ab1c1d5c)
+[![HackerRank Python Certificate](https://img.shields.io/badge/HackerRank-PYTHON-47A248?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/40dfb396a88e)
 
 
 ## Profile Views
