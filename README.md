@@ -94,7 +94,7 @@ const pratikMarathe = {
  <h2><i>My GitHub Stats</i></h2>
 
 <div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshjungade&layout=compact&theme=dark&langs_count=6&hide=html,css" alt="Language Usage" style="width: 48%; display: inline-block; margin-right: 2%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikVMarathe&layout=compact&theme=dark&langs_count=6&hide=html,css" alt="Language Usage" style="width: 48%; display: inline-block; margin-right: 2%;" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=PratikVMarathe&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" style="width: 48%; display: inline-block;" />
 </div>
