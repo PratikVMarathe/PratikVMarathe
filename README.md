@@ -72,10 +72,10 @@ const pratikMarathe = {
 
 <p align="left">
     <a href="https://www.linkedin.com/in/pratik-marathe-104b13226/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/suresh-jungade-837442139/" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/pratik-marathe-104b13226/" />
     </a>
     <a href="https://twitter.com/PratikMarathe01">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ganeshjungade" />
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/PratikMarathe01" />
     </a>
     <a href="https://pratik-marathe-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://pratik-marathe-portfolio.netlify.app/" />
