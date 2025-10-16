@@ -103,7 +103,7 @@ const pratikMarathe = {
  <!--------------------------------------------------------------------------------> 
   
  ## Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PratikVMarathe&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PratikVMarathe)
 
 ## Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PratikVMarathe&theme=darkhub)
